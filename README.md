@@ -1,0 +1,2 @@
+# Temperature-Humidity-Regression-Analysis
+This simple small project is all about analyzing 72 readings of temperature and humidity. Using Linear Regression, the analysis of past readings and forecast is shown in the two different graphs of temperature and humidity. The project is simply coded and anyone who knows the basics can easily understand the logic and implementation. The most valuable features like reshape, fit_transform, polynomial feature with degree n, applying model, predicting and forecasting with the graphical representation in the end.
